@@ -33,6 +33,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#game-controls">Game Controls</a></li>
     <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -56,13 +57,16 @@
 ## Prerequisites
 
 * Python 3.X
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+## Built With
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+* [PyInstaller](https://pyinstaller.org/en/stable/)
 
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
-## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -74,8 +78,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
