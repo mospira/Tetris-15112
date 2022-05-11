@@ -1,19 +1,8 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mospira/Tetris-15112">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Tetris-15112</h3>
@@ -41,15 +30,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#game-controls">Game Controls</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -59,19 +42,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
 <!-- GETTING STARTED -->
-## Getting Started
+## Usage
 
 1. Download 'tetris.py' and 'cmu_112_graphics.py' to the same directory.
 2. Run 'tetris.py' to start the game.
