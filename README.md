@@ -45,9 +45,8 @@
 <!-- GETTING STARTED -->
 ## Usage
 
-1. Download 'tetris.py' and 'cmu_112_graphics.py' to the same directory.
-2. Run 'tetris.py' to start the game.
-
+1. Download and extract the latest release of [tetris-15112.exe](https://github.com/mospira/Tetris-15112/releases)
+2. Run 'tetris-15112.exe' to begin playing.
 ## Game Controls
 <li>Move pieces left and right with the corresponding arrow keys.</li>
 <li>Turn pieces 90 degrees with the up arrow key.</li>
